@@ -1,0 +1,8 @@
+Objective
+This study was performed to determine the effect of the remifentanil dose on the onset time of rocuronium with electromyography.
+Methods
+This retrospective comparative study included 75 patients undergoing general anesthesia for elective surgery. Patients received lidocaine (40 mg) and propofol (2 mg/kg) followed by rocuronium (0.6 mg/kg) with either saline infusion (Group S), remifentanil at 0.5 µg/kg/minute (Group R 0.5), or remifentanil at 1.0 µg/kg/minute (Group R 1.0). Neuromuscular block was monitored by train-of-four (TOF) electromyography, and the times taken to reach TOF 0 and TOF ratio (TOFR) 25% were recorded.
+Results
+The times taken to reach TOF 0 and TOFR 25% were significantly higher in Groups R 0.5 and R 1.0 than in Group S. The time taken to reach TOF 0 was 130.0 ± 6.4 s in Group S, 142.6 ± 6.0 s in Group R 0.5, and 183.0 ± 11.6 s in Group R 1.0. The time taken to reach TOFR 25% was also higher in Groups R 0.5 and R 1.0 than in Group S.
+Conclusions
+As the remifentanil dose increases, the intubation time required to reach TOF 0 also increases. Remifentanil has an effect on the onset of rocuronium.

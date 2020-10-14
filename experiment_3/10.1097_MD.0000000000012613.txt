@@ -1,0 +1,12 @@
+Rationale:
+Lung cancer is a leading cause of cancer-related deaths globally. Appropriate histopathological diagnosis and subtyping form the basis and are critical for clinical therapies.
+Patient concerns:
+Here, we report about 3 patients who had a nodule in the lung. Cancer cells grow in the alveolar cavity in many lung carcinomas. In all our 3 cases preserved alveolar architectures were found in tumor tissues which may lead to diagnostic pitfalls.
+Diagnoses:
+Three patients had tumors that were diagnosed as nonsmall cell lung cancers, including large-cell carcinoma, peripheral squamous cell carcinoma, and large-cell neuroendocrine carcinoma, all of which contained structures of preserved alveolar cells that could be mistaken as malignant glandular components. The preserved alveolar cells formed acinar or duct-like structures enwrapped in the lung cancer tissues or surrounded the nests of cancer cells. Proliferative alveolar cells adjacent to cancer tissues were observed, and papillary structures and marked atypia, both of which may be mistaken as part of adenocarcinoma or carcinoma with glandular differentiation, were also observed.
+Interventions:
+All patients underwent surgery and postoperative chemotherapy.
+Outcomes:
+The patients had no recurrence at 5-, 8-, or 10-month follow-up after the last surgery.
+Lessons:
+Preserved alveolar cells with different architectures may be observed in various lung cancer tissues and may be mistaken as adenocarcinoma or carcinoma with glandular differentiation. Distinct morphological and immunohistochemical features may help distinguish preserved alveolar cells from tumor components.

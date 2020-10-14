@@ -1,0 +1,8 @@
+Introduction
+In recent years, data have emerged on the outcomes of living kidney donors who develop end-stage renal disease (ESRD). We aimed to evaluate mortality rates in kidney donors who had initiated dialysis compared with a propensity-matched cohort of dialysis patients without previous kidney donation.
+Methods
+We used the United States Renal Data System (USRDS) and abstracted 274 previous living kidney donors between 1995 and 2009. There were 609,398 individuals on dialysis without kidney donation. We used propensity score matching to identify 258 donors and 258 nondonors. The time-dependent Cox proportional hazards model was used to compare survival between the 2 matched cohorts.
+Results
+In the propensity score−matched cohort, mortality was lower in donors compared with nondonors (19% vs. 49%; P < 0.0001). The time-dependent Cox proportional hazards model demonstrated that donors had significantly lower mortality compared with nondonors 0 to 5 years since start of dialysis (hazard ratio [HR]: 0.17; 95% confidence interval [CI] 0.11−0.27; P < 0.0001) and with nondonors 5 to 10 years on dialysis (HR: 0.34; 95% CI: 0.19−0.63; P < 0.001). We were unable to estimate the difference between the 2 groups after 10 years on dialysis with any precision (HR: 0.51; 95% CI: 0.18−1.42; P = 0.20) due to the small sample size.
+Conclusion
+We observed a lower mortality rate in living kidney donors with ESRD compared with matched nondonors. This data should guide clinicians in the informed consent process with prospective donors.

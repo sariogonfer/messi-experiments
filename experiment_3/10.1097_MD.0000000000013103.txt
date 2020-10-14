@@ -1,0 +1,12 @@
+Rationale:
+The abnormal cell types in chronic myeloid leukemia (CML) and monoclonal gammopathy of uncertain (MGUS) are quite different, being myeloid and plasma cells, respectively. The coexistence of CML and MGUS is an uncommon event, which is seldom reported in literature.
+Patient concerns:
+A 52-year-old female was diagnosed with CML in April 2001. From November 2006, the patient started on imatinib mesylate and kept a complete hematologic and cytogenetic response for nearly 11 years. During her follow-up on July 7, 2017, thrombocytopenia (35∗109/L) was found. Bone marrow aspiration revealed 6% plasma cell infiltration. Serum immunoelectrophoresis revealed 1.24 g/dL of serum monoclonal (M) protein of IgG-κ type.
+Diagnosis:
+MGUS was diagnosed because of absence of anemia, hypercalcemia, lytic bone lesions, or renal failure. Immune thrombocytopenia (ITP) was also diagnosed in this patient following the detection of antiplatelet autoantibodies. Complex karyotype and missense mutation in PRDM1 were identified.
+Interventions:
+Because of her obvious decrease of platelets, she started treatment with thalidomide and prednisone.
+Outcomes:
+Three months later, bone marrow aspirate showed disappearance of plasma cells. There developed an abrupt decrease in IgG and the absence of M-spike in serum immunoelectrophoresis. The platelet count kept normal during 1 year follow-up.
+Lessons:
+Karyotypic event and gene mutation found in this case may be the initiation of disease transformation. Administration of thalidomide and prednisone proved effective in this patient.

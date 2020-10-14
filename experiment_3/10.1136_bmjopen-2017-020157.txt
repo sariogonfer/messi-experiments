@@ -1,0 +1,15 @@
+Objectives
+To assess the physical strains of employees in the German offshore wind industry, according to job type and phase of the wind farm (under construction or operation).
+Design
+Web-based cross-sectional survey.
+Setting
+Offshore wind farm companies operating within the German exclusive economic zone.
+Participants
+Male workers with regular offshore commitments and at least 28 days spent offshore in the past year (n=268).
+Outcome measures
+Physical strains (eg, climbing, noise, working overhead, with twisted upper body or in confined spaces, vibration, heavy lifting, humidity, odours).
+Results
+The most frequently mentioned physical strain was ’climbing’ with 63.8% of the respondents reporting to be always or frequently confronted with climbing and ascending stairs during offshore work. Work as a technician was associated with a greater exposition to noise, vibrations, humidity, cold, heat, chemical substances, lifting/carrying heavy loads, transport of equipment, working in non-ergonomic positions and in cramped spaces, as well as climbing.
+Indeed, statistical analyses showed that, after adjusting for phase of the wind farm, age, nationality, offshore experience, work schedule and type of shift, compared with non-technicians, working as a technician was associated with more frequently lifting/carrying of heavy loads (OR 2.58, 95% CI 1.58 to 4.23), transport of equipment (OR 2.06 95% CI 1.27 to 3.33), working with a twisted upper body (OR 2.85 95% CI 1.74 to 4.69), working overhead (OR 2.77 95% CI 1.67 to 4.58) and climbing (OR 2.30 95% CI 1.40 to 3.77). Working in wind farms under construction was strongly associated with increased and decreased exposure to humidity (OR 2.32 95% CI 1.38 to 3.92) and poor air quality (OR 0.58 95% CI 0.35 to 0.95), respectively.
+Conclusions
+Workers on offshore wind farms constitute a heterogeneous group, including a wide variety of occupations. The degree of exposure to detrimental physical strains varies depending on the type of job. Technicians are more exposed to ergonomic challenges than other offshore workers.

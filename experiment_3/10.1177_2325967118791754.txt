@@ -1,0 +1,12 @@
+Background:
+Surveillance programs are vital to analyze the cause and nature of lesions and ultimately establish protocols of action to lower injury rates.
+Purpose:
+To evaluate the adherence of team doctors to an electronic surveillance system and determine the incidence and characteristics of injuries among soccer players participating in the 2017 Gold Cup.
+Study Design:
+Descriptive epidemiological study.
+Methods:
+All data were collected from the electronic medical reports submitted during each match of the 2017 Gold Cup. Twelve teams participated in the tournament (each with 23 players), for a total of 276 players. A 19-question online survey was filled out by the team physician after each injury. Each report contained the player’s number, the exact time of injury (minute of play), the location and diagnosis of injury as indicated by a previously defined code, and its severity in terms of the number of days of absence from training and match play.
+Results:
+The electronic reporting system had a response rate of 100.0%, with 97.2% of questions answered completely. The mean age of injured players was 27 years (range, 21-35 years) and was not statistically significantly different from the overall mean player age (P >.05). There were no significant differences in the frequency of injuries when analyzed by player position (P =.743). The overall rate of injuries was 1.04 per match, with the most common injuries being contusions (42.3%), sprains (7.7%), strains (7.7%), and fractures (7.7%). These injuries were more commonly the result of contact (75.0%) than noncontact (25.0%) mechanisms (P <.001). Injuries most commonly occurred between the 60th and 75th minute of play when comparing all 15-minute time intervals (P =.004).
+Conclusion:
+This study supports the use of electronic injury reporting, which demonstrated a high level of adherence among an international cohort of team physicians and has significant potential for improving injury surveillance and tracking responses to prevention programs. Injury rates in the Gold Cup were similar to those in previous studies and demonstrated the highest rates late in the second half of the game, specifically between the 60th and 75th minute of play.

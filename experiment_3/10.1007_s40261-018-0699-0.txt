@@ -1,0 +1,10 @@
+Background and Objectives
+Topiroxostat—a novel selective xanthine oxidoreductase inhibitor—has been reported to reduce serum urate levels. The purpose of this study was to assess the efficacy and safety of long-term topiroxostat administration in Japanese hyperuricemic patients with or without gout.
+Methods
+This multicenter, open-label study evaluated the efficacy and safety of long-term twice-daily oral topiroxostat administration in patients with or without gout. The initial topiroxostat dosage was 40–80 mg/day, and the maintenance dosage was 120 mg/day, which was increased to 240 mg/day at 40 mg increments if the serum urate level exceeded 6.0 mg/dL.
+Results
+Serum urate level, which was the primary endpoint, decreased stably over time and showed significant reduction on the final visit (38.44% ± 13.34%) compared with that at the baseline. Both urinary albumin/creatinine ratio and mean blood pressure significantly improved. The overall incidence rate of adverse drug reactions to topiroxostat was 67.8%; on the final visit, the rate of adverse drug reactions was 66.7% with 120 mg/day, 72.2% with 160 mg/day, 53.8% with ≥ 200 mg/day, and 100% with the other dosages. On the final visit, the incidence of gouty arthritis, for which a causal relationship with topiroxostat could not be ruled out, was 4.1% overall, 4.8% with 120 mg/day, 0% with 160 mg/day, and 7.7% with ≥ 200 mg/day.
+Conclusions
+We verified the efficacy and safety of 58-week oral topiroxostat administration at stepwise increments to up to 240 mg/day.
+Study Registration
+JAPIC CTI-101068.

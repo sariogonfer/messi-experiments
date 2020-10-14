@@ -1,0 +1,8 @@
+Objective
+To test whether the method utilizing three-dimensional (3D) whole-heart MRI has an additional benefit over that utilizing conventional two-dimensional (2D) cine MRI in quantifying ventricular volumes.
+Materials and Methods
+In 110 patients with congenital heart disease, a navigator-gated, 3D whole-heart MRI during end-systole (ES) and end-diastole (ED), 2D short-axis cine MRI, and phase contrast MRI of the great arteries were acquired. Ventricular volumes were measured by using a 3D threshold-based segmentation for 3D whole-heart MRI and by using a simplified contouring for 2D cine MRI. The cardiac trigger delays of 3D whole-heart MRI were compared with those of a 2D cine MRI. The stroke volumes calculated from the ventricular volumes were compared with the arterial flow volumes, measured by phase contrast MRI.
+Results
+The ES and ED trigger delays of whole-heart MRI were significantly less than cine MRI for both the left ventricle (−16.8 ± 35.9 ms for ES, −59.0 ± 90.4 ms for ED; p < 0.001) and the right ventricle (−58.8 ± 30.6 ms for ES, −104.9 ± 92.7 ms for ED; p < 0.001). Compared with the arterial flow volumes, 2D cine MRI significantly overestimated the left ventricular stroke volumes (8.7 ± 8.9 mL, p < 0.001) and the 3D whole-heart MRI significantly underestimated the right ventricular stroke volumes (−22.7 ± 22.9 mL, p < 0.001).
+Conclusion
+Three-dimensional whole-heart MRI is often subject to early timing of the ED phase, potentially leading to the underestimation of the right ventricular stroke volumes.

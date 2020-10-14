@@ -1,0 +1,8 @@
+Background
+The aim of this study was to assess the effects of interleukin-1 (IL-1) receptor associated kinase (IRAK) inhibitors on intestinal injury induced by necrotizing enterocolitis (NEC) in neonatal rats and its regulation on the intestinal Toll-like receptor (TLR) inflammatory signaling pathway.
+Material/Methods
+The neonatal rat models of NEC were established though hypoxia-cold stimulation. All rats were divided into 3 groups: an NEC model group (NEC group), an IRAK inhibitor group (IRAKI group), and a normal control group (NC group). At 72 h after the models were established, intestinal tissues were collected for histopathological examination, enzyme-linked immunosorbent assay (ELISA), Western blotting, and immunohistochemistry.
+Results
+After IRAK inhibitor intervention, the symptoms of NEC in neonatal rats were alleviated, and the degree of weight loss was reduced. In the IRAK group, the intestinal pathology of neonatal rats was improved, pathological score was decreased, and the incidence rate of NEC was significantly reduced. The levels of tumor necrosis factor-alpha (TNF-α), IL-1β, and IL-6 in the IRAK group were significantly decreased compared with those in the NEC group. There were no significant differences in IRAK1 and IRAK4 protein expression levels between the IRAK group and the NEC group. The phosphorylated IRAK1 and IRAK4 in the IRAK group were significantly decreased. Nuclear factor-kappa B (NF-κB) level of intestinal tissues in the IRAK group was reduced compared with that in the NEC group.
+Conclusions
+IRAK inhibitors can inhibit the inflammatory response of the NEC model, reduce the release of pro-inflammatory cytokines, and alleviate the damage to intestinal tissues by inhibiting conduction of the TLR signaling pathway.

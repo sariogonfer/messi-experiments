@@ -1,0 +1,10 @@
+Objective
+To evaluate long-term clinical, functional and radiographic outcomes in an open-label extension (OLE) study in patients with rheumatoid arthritis (RA) receiving adalimumab monotherapy or adalimumab+methotrexate following attainment of low disease activity (LDA) with adalimumab+methotrexate.
+Methods
+Methotrexate-naive patients with early RA were randomised to adalimumab, methotrexate or adalimumab +methotrexate in a double-blind, 2-year study. Patients who completed the study and achieved LDA (28-joint Disease Activity Score using C reactive protein (DAS28(CRP)<3.2) could receive adalimumab monotherapy for up to 8 additional years in the OLE; open-label methotrexate could be added per investigator’s discretion. This post hoc analysis included data up to OLE year 3 (study year 5) from patients receiving adalimumab+methotrexate who achieved LDA at year 2 followed by adalimumab monotherapy or methotrexate reinitiation. Normal physical function was defined as Disability Index of the Health Assessment Questionnaire <0.5 and radiographic non-progression as change in modified total Sharp score ≤0.5.
+Results
+Of 140 patients initiating adalimumab monotherapy, 84 (60%) received adalimumab only (methotrexate non-use) and 56 (40%) reinitiated methotrexate (methotrexate use) during OLE treatment. Median (IQR) time to first methotrexate use was 5.1 (0.1–31.4) weeks. Among methotrexate users, 61% retained LDA, 48% achieved DAS28(CRP) <2.6, 45% had normal physical function and 46% had no radiographic progression at year 5; for non-users, 63%, 50%, 58% and 50%, respectively, achieved these milestones. Adverse event rates were similar between methotrexate non-use and use patients.
+Conclusions
+Adalimumab monotherapy effectively maintained good clinical, functional and radiographic outcomes for up to 3 additional years in ≥50% of patients who attained LDA after 2 years of adalimumab+methotrexate therapy.
+Trial registration number
+; Post-results.

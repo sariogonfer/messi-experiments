@@ -1,0 +1,8 @@
+Background/Aims
+Sofosbuvir plus ribavirin is a standard treatment for patients infected with chronic hepatitis C virus (HCV) genotype 2 in Korea. The purpose of this study was to examine the efficacy and safety of this treatment in Korean patients with chronic HCV genotype 2 infection.
+Methods
+We retrospectively analyzed clinical data of patients treated with sofosbuvir plus ribavirin for chronic HCV genotype 2 from May 2016 to December 2017 at eight hospitals located in the Daejeon-Chungcheong area.
+Results
+A total of 172 patients were treated with sofosbuvir plus ribavirin. Of them, 163 patients completed the treatment, and 162 patients were tested for sustained virologic response 12 weeks after treatment discontinuation (SVR12). Mean age was 59.6±12.3 years (27–96), and 105 (64.4%) patients were female. Of the total patients, 49 (30.1%) were diagnosed with cirrhosis, and 31 of them were treated for 16 weeks. Sofosbuvir plus ribavirin was the first-line treatment for 144 (88.3%) patients. Eleven (6.7%) patients were intolerant to previous interferon-based treatment. Eight (5.0%) patients relapsed after interferon-based treatment. HCV RNA non-detection rate at 4, 8, and 12 weeks was 97.5%, 99.1%, and 99.3%, respectively, and SVR12 was 98.8% (161/163). During treatment, 18 (11.0%) patients had to reduce their administrated dose of ribavirin because of anemia. One patient stopped the treatment because of severe anemia. Other adverse events, including dizziness, indigestion, and headache, were found in 26 (16.0%) patients.
+Conclusions
+A 12-16 week treatment with sofosbuvir plus ribavirin is remarkably effective and well tolerated in Korean patients with chronic HCV genotype 2 infection.

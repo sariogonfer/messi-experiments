@@ -1,0 +1,8 @@
+Background
+The aim of this study was to explore the diagnostic value of sagittal measurement of thoracic inlet parameters for degenerative cervical spondylolisthesis (DCS).
+Material/Methods
+We initially included 65 patients with DCS and the same number of health people as the control group by using cervical radiograph evaluations. We analyzed the x-ray and computer tomographic (CT) data in prone and standing position at the same time. Measurement of cervical sagittal parameters was carried out in a standardized supine position. Multivariate logistic regression analysis was performed to evaluate these parameters as a diagnostic index for DCS.
+Results
+There were 60 cases enrolled in the DCS group, and 62 cases included in the control group. The T1 slope and thoracic inlet angle (TIA) were significantly greater for the DCS group compared to the control group (24.33±2.85º versus 19.59±2.04º, p=0.00; 76.11±9.82º versus 72.86±7.31º, p=0.03, respectively). We observed no significant difference for the results of the neck tilt (NT), C2–C7 angle in the control and the DSC group (p>0.05). Logistic regression analysis and receiver operating characteristic (ROC) curve revealed that preoperative T1 slope of more than 22.0º showed significantly diagnostic value for the DCS group (p<0.05).
+Conclusions
+Patients with preoperative sagittal imbalance of thoracic inlet have a statistically significant increased risk of DCS. T1 slope of more than 22.0º showed significantly diagnostic value for the incidence of DCS.

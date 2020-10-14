@@ -1,0 +1,8 @@
+Background:
+This study aimed to compare the effects of combined endurance-resistance training (CT) versus endurance training (ET) on some cardiovascular markers in patients with heart failure after percutaneous coronary intervention (PCI).
+Materials and Methods:
+The study applied a randomized, controlled design in which 75 patients with heart failure who had undergone PCI were randomly assigned to one of three groups: ET, CT, and control. The ET group performed ET for 45 min, three times a week for 7 weeks. The CT group performed the same ET for 30 min followed by a resistance exercise protocol. The control group received usual care. Functional capacity, N-terminal pro-brain natriuretic peptide (NT-pro BNP), and high sensitivity C-reactive protein (hs-CRP) levels were measured.
+Results:
+After the intervention, functional capacity was improved (P < 0.001) and NT-pro BNP level was significantly reduced (P = 0.004 in the CT group, P = 0.002 in the ET group). Hs-CRP level was significantly reduced only in the ET group (P = 0.030). The control group showed no significant changes in any cardiovascular parameters (P ≥ 0.05). Changes in functional capacity (P < 0.001) in both training groups were significantly different from the control group. No significant differences were found between the ET and CT groups regarding changes in all outcomes after exercise training (P ≥ 0.05).
+Conclusion:
+Exercise training is safe and feasible in post-PCI patients, even in those with reduced ejection fraction. CT was as effective as ET in reducing NT-pro BNP level and improving functional capacity in heart failure patients after PCI.

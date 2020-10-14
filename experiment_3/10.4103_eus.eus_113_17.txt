@@ -1,0 +1,8 @@
+Objectives:
+The project is aimed to compare the tissue sampling rate and the diagnostic accuracy rate of EUS-FNA using 22G nitinol and reverse bevel-tipped needles.
+Subjects and Methods:
+This was a prospective, randomized, crossover study in a tertiary academic hospital. All consecutive adult patients undergoing EUS-guided FNA for lesions > 2 cm were recruited. Patients fulfilling the inclusion and exclusion criteria underwent EUS-guided FNA using both needles in sequence. They were randomized on a 1:1 basis to determine whether EUS-FNA would be performed first using the 22G reverse bevel-tipped (ProCore) needle followed by the nitinol needle or vice versa. The patients and the pathologists were blinded to the type of needle used.
+Results:
+Forty patients with suspected malignant neoplasms were recruited to the study. No significant differences were found in the diagnostic yield (76.9% vs. 84.6%, P = 0.389), accuracy (71.8% vs. 84.6%, P = 0.170), sensitivity (77.8% vs. 86.1%, P = 0.358), specificity (100% vs. 100%, P = 1), positive predictive value (100% vs. 100%, P = 1), and negative predictive value (20.0% vs. 28.6%, P = 1). The percentage of obtained tissue for histological assessment was also similar (41.0% vs. 46.2%, P = 0.648). In terms of the quantity of tissue obtained with the needles, a larger proportion of patients in the nitinol group obtained more tissue for assessment (P = 0.003).
+Conclusion:
+The tissue-sampling rate and the diagnostic accuracy of the new 22G ProCore needle were comparable to the conventional 22G FNA needle in the absence of an on-site cytopathologist.

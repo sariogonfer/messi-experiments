@@ -1,0 +1,8 @@
+Background
+Low-carbohydrate diets have been shown to effectively improve the metabolic status of patients with type 2 diabetes mellitus. However, patients may find it challenging to maintain a strict low-carbohydrate diet. The objective of this study was to determine if a one-meal, low-carbohydrate diet is as effective in improving metabolic status as a conventional, energy-restricted diet among patients with type 2 diabetes mellitus.
+Methods
+In this 12-week randomized controlled study, the primary endpoint was differences in the changes of plasma glycosylated hemoglobin (HbA1c) levels between the two experimental groups. Since the two groups had differences in body weight, body mass index, and waist circumference, propensity score matching was used to assess HbA1c outcomes via cohort pairs according to age, sex, body weight, HbA1c level, and waist circumference.
+Results
+There were no differences in the changes in HbA1c between the two groups (P = 0.95). In addition, there were no differences in the changes in glycated albumin, 1,5-anhydroglucitol, lipid profile, body weight, waist circumference, and fat mass between the two groups. The mini low-carbohydrate diet group had an increased protein intake (P = 0.0085), as compared with the control group. However, neither group showed changes in their Diabetes Treatment Satisfaction Questionnaire score.
+Conclusion
+Either diet would be effective for improving the metabolic status of this study population.

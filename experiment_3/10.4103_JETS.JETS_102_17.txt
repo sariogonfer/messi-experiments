@@ -1,0 +1,8 @@
+Introduction:
+To compare the incidence, characteristics, and outcomes of lactate expressors and nonexpressors in patients with severe sepsis and septic shock.
+Methods:
+This is a retrospective cohort study of patients with severe sepsis and septic shock who presented over a 40-month period to an academic tertiary care center. Primary outcome of interest was in-hospital mortality. Secondary outcomes were hospital length of stay (LOS), Intensive Care Unit (ICU) LOS, and escalation of care.
+Results:
+Three hundred and thirty-eight patients met inclusion criteria and were divided into a lactate expressor group (n = 197; initial lactate ≥2.5 mmol/L) and a nonexpressor group (n = 141; lactate <2.5 mmol/L). The mortality rate was 46.2% for lactate expressors and 24.8% for nonexpressors. There were no significant differences in hospital or ICU LOS. The escalation-of-care rate in the severe sepsis nonexpressor group was more than double that found in the expressor group: 16.5% versus 6.2% (P = 0.040). The two groups had baseline differences: expressor group had a higher median Acute Physiology and Chronic Health Evaluation II (APACHE II) illness severity score, and nonexpressors had an increased prevalence of comorbid conditions. APACHE II score (odds ratio [OR] 1.10 (1.07–1.14), P < 0.001) and being in the expressor group (OR 1.72 [1.03–2.89], P = 0.039) increased the odds of mortality.
+Conclusions:
+In patients with severe sepsis and septic shock, lactate nonexpressors are common. Although the mortality in this cohort is less than its counterparts who present with lactate elevation, it is still significant which warrants vigilance in their care.

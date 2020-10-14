@@ -1,0 +1,8 @@
+Background
+Endothelial progenitor cells (EPCs) were found to be a potential therapeutic choice for low extremity deep vein thrombosis. The aim of our research was to investigate the effect of resveratrol (RSV) on EPCs that may promote thrombus resolution and its potential pathway.
+Material/Methods
+EPCs were pretreated with RSV and migration; angiogenesis were evaluated ex vivo. Expression of miR-138 and focal adhesion kinase (FAK) was also tested. A murine model of venous thrombosis was developed as an in vivo model. The effects of RSV treatment on mice with inferior venous thrombosis were evaluated.
+Results
+We found that RSV increased EPCs migration and tube formation ex vivo. RSV significantly inhibited miR-138 expression. Moreover, we demonstrated that FAK was a target of miR-138 and revealed that FAK knockdown downregulated migration and angiogenesis of RSV-treated EPCs. In addition, RSV-induced EPCs promoted thrombus resolution in a murine model of venous thrombosis.
+Conclusions
+We found the first evidence that intravenous injection of RSV-treated EPCs enhanced thrombus resolution in vivo. RSV exerted its role by reducing miR-138 expression and therefore upregulated FAK.

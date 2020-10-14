@@ -1,0 +1,8 @@
+Background
+We sought to develop a novel index based on the skeletal muscle mass that reflects the change of quality of life (QOL), and is the most appropriate index for the body composition of the elderly in Korea. Whether lower extremity skeletal muscle mass index (LESMI) is an appropriate novel new index to diagnose patients with sarcopenia was also evaluated. A cut-off value for each index was reported to facilitate the diagnosis of patients with sarcopenia in a Korean population.
+Methods
+We used the 5th Korean National Health and Nutrition Examination Survey data from 2010. We analyzed 409 elderly patients, including 231 men and 178 women, aged ≥65 years. Patients were diagnosed by calculating their skeletal muscle index based on the skeletal muscle mass measured using dual energy X-ray absorptiometry. Obesity and osteoporosis were used to screen data and EuroQOL-5 dimension as a health questionnaire.
+Results
+The prevalence of sarcopenia in each index was obtained based on its cut-off value for diagnosing sarcopenia. There was a significant difference between the obesity rate of elderly patients diagnosed with sarcopenia and those who were not based on each index. There was no significant difference in the prevalence of osteoporosis between the groups. Sarcopenia diagnosis based on the LESMI was significantly correlated with QOL.
+Conclusions
+LESMI, a novel index based on skeletal muscle mass, reflects changes in QOL and is appropriate for the body composition of elderly people in Korea.

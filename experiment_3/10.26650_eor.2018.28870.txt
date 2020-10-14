@@ -1,0 +1,8 @@
+Purpose
+The aim of this study was to conduct a retrospective evaluation of the volumetric, cross-sectional surface area and the linear airway changes in healthy subjects undergoing orthognathic surgery.
+Materials and methods
+A total of 10 patients were included in this study and categorized into two groups. The first group consisted of five patients who underwent maxillary and mandibular advancements (MMA) with genioplasty. The remaining five patients who underwent maxillary advancement with mandibular setback (MAMS) comprised the second group. The changes in airway volume, surface area, and linear values obtained from defined hard and soft tissue parameters were evaluated using preoperative and postoperative cone-beam computed tomography. A paired t-test was used to explore the statistical significance.
+Results
+A statistically significant increase in the airway volume (34.3%) was observed in the MMA group. The changes in the MAMS group were not statistically significant, although an average volumetric decrease of 8.8% was observed. The minimal axial surface area measurements in the MMA group at the levels of the soft palate and the tongue were significantly increased (56.8% and 44.9%, respectively). However, MAMS resulted in no significant changes at these levels (11.2% and 9.1% decrease, respectively). Linear changes showed a statistically significant increase in the airway in the MMA group, whereas the same measurements failed to produce significant changes in the MAMS group.
+Conclusion
+As there were no significant changes in the measured parameters, surgeons can have greater confidence that MAMS does not have any negative influence on the airway.

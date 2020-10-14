@@ -1,0 +1,8 @@
+Background
+Transarterial embolization (TAE) is an alternative procedure to repeat endoscopy or surgical intervention in the case of re-bleeding after primary endoscopic treatment. The aim of the study was to assess the Rockall score as a criterion for TAE in the case of re-bleeding after endoscopic treatment of non-variceal upper gastrointestinal bleeding (NVUGIB).
+Methods
+Out of the 673 patients who underwent emergent endoscopic hemostasis due to NVUGIB, 111 had a high risk of re-bleeding having a Forrest I-IIb ulcer and the Rockall score ≥ 5. From 111 patients, 37 accepted preventive TAE (PE+ group). The control group consisted of 74 patients who underwent standard treatment (PE- group).
+Results
+There were no differences in the demographic status between both groups, nor in the main clinical data on admission. The performance of TAE resulted in a significantly lower re-bleeding rate (1 (4.8%) vs. 11 (33%), P = 0.018). No patient who underwent TAE with the Rockall score ≥ 7 required surgery, resulting in only one re-bleeding episode (P = 0.004). Mortality reached 5% and 11% in the PE+ and PE- groups accordingly.
+Conclusion
+The Rockall score ≥ 7 could be a reliable predictor of re-bleeding after primary endoscopic hemostasis as one criterion for the selection of indications for preventive TAE.

@@ -1,0 +1,8 @@
+Objective
+Prediabetes comprises a heterogeneous group because of the poor concordance of its definition. The aim of our study was to evaluate the longitudinal deformation of the left ventricular (LV) myocardium at the two opposite ends of the prediabetes spectrum as defined by fasting blood sugar and glycated hemoglobin (HbA1c).
+Methods
+Eighty consecutive subjects in a cross-sectional single-center study with impaired fasting glucose (IFG) (100–126 mg/dL) and without significant epicardial coronary artery stenosis seen on selective coronary angiography were included in our study and were divided into two groups based on their HbA1c levels (<5.7% and 5.7%–6.4%). The longitudinal deformation of the LV myocardium was compared between the two groups using two-dimensional speckle-tracking echocardiography (2DSTE).
+Results
+The Student t-test, Mann–Whitney U test, or X test was used for data analysis, whichever was appropriate. The systolic strain (–16.1%±2.0 vs. –16.8%±2.4; p=0.214), systolic strain rate (–1.3±0.2 s vs. –1.4±0.2 s; p=0.403), and early and late-diastolic strain rates (1.4±0.3 s vs. 1.5±0.3 s; p=0.456 and 0.9±0.1 s vs. 1.0±0.2 s; p=0.684, respectively) of the LV myocardium were not statistically different between the IFG subjects with and without increased HbA1c as detected using 2DSTE.
+Conclusion
+The longitudinal deformation of the LV myocardium as detected using 2DSTE in the subjects without significant epicardial coronary artery stenosis was not statistically significantly different between the IFG subjects with and without increased HbA1c.

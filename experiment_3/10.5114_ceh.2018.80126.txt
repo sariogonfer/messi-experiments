@@ -1,0 +1,8 @@
+Aim of the study
+We aimed to assess the utility and rapidity of granulocyte elastase (GE) latex immunoassay and leukocyte esterase (LE) reagent strips for the diagnosis of spontaneous bacterial peritonitis (SBP) in hepatic children with ascites.
+Material and methods
+This study included 80 ascitic fluid (AF) samples from 45 patients with chronic liver diseases. They were divided into 2 groups (SBP and non-SBP groups). White blood cells > 500 cell/mm or polymorphonuclear leukocytes > 250 cell/mm were considered as a positive result for the diagnosis of SBP. The AF obtained at bedside was immediately tested with an LE enzyme reagent strip, and another sample was aliquoted for measurement of serum GE.
+Results
+On doing LE dipstick strips, all the non-SBP group gave no coloration with LE strips while 62% of the SBP group gave coloration. LE strips had accuracy of 86.25% in differentiating SBP and non-SBP at a cut-off value of 1 (color grade 1). The diagnostic performance of GE in differentiating SBP and non-SBP was assessed and showed accuracy of 70% for a cutoff value of 123.5 ng/ml.
+Conclusions
+Application of LE reagent strips is a bedside, rapid, easy-to-use, and inexpensive method for diagnosis of SBP. It has an accuracy of 86.25% in differentiating SBP and non-SBP, which is higher than more complicated and delayed methods such as GE latex immunoassay, which has an accuracy of 70%.

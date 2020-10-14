@@ -1,0 +1,8 @@
+Purpose
+This study aimed to develop Turkish measures for Pediatric Oral Health-related Quality of Life (POQL) and evaluate their reliability and validity for use in Turkish children aged 8–14 years (Child Self-Report measure; CSR) and their caregivers (Parent Report-on-Child measure; PRC).
+Materials and methods
+The English POQL was translated into Turkish, adapted for the Turkish culture, and tested in 149 children and their caregivers attending the Çukurova University Pediatric Dentistry clinics to assess the reliability, internal consistency, and discriminant and convergent validity of the Turkish version.
+Results
+The internal consistency of the Turkish POQL evaluated using Cronbach’s alpha was 0.905 for CSR and 0.887 for PRC. To determine the test–retest reliability, the Turkish POQL was administered to a sub-sample (n=16) a second time 2 weeks after the first survey administration. Intraclass correlation coefficient values of the individual items were 0.895 for CSR and 0.992 for PRC. For total scores, there was a significant difference based on clinical caries status and perceived oral health in both CSR and PRC.
+Conclusion
+The Turkish POQL is a valid and reliable measure of the perceived impact of oral conditions on children’s lives.

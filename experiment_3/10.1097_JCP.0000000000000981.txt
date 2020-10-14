@@ -1,0 +1,8 @@
+Purpose/Background
+Loss of gray matter after stroke has been associated with cognitive impairment. This pilot study aimed to investigate the therapeutic potential of lithium, a putative neurotrophic agent, in the stroke recovery process within a year of stroke occurrence.
+Methods
+Twelve stroke patients (mean ± SD age, 71.1 ± 11.9 years) were recruited to the study, and eligible participants were prescribed open-label lithium for 60 days. Magnetic resonance imaging was used to assess global gray matter at baseline and end of treatment; global cognition was assessed using the standardized Mini-Mental State Examination and Montreal Cognitive Assessment, and verbal memory was evaluated using the Hopkins Verbal Learning Test—Revised.
+Findings/Results
+There was no difference in global gray matter volume between baseline and follow-up (t = 1.977, P = 0.074). There was a significant interaction between higher lithium dose and increased global gray matter volume (F = 14.25, P = 0.004) and a correlation between higher lithium dose and improved verbal memory (r = 0.576, P = 0.05).
+Implications/Conclusions
+Lithium pharmacotherapy may be associated with gray matter volume change and verbal memory improvement in stroke patients, providing a rationale for future trials assessing therapeutic potential of lithium in a poststroke population.

@@ -1,0 +1,10 @@
+BACKGROUND:
+Tenuigenin (TEN), a major active component of the Chinese herb Polygala tenuifolia root, has been used to improve memory and cognitive function in Traditional Chinese Medicine for centuries.
+PURPOSE:
+The present study was designed to explore the possible neuroprotective effect of TEN on the streptozotocin (STZ)-induced rat model of sporadic Alzheimer's disease (sAD).
+METHODS:
+STZ was injected twice intracerebroventrically (3 mg/kg, ICV) on alternate days (day 1 and day 3) in Rats. Daily treatment with TEN (2, 4, and 8 mg/kg) starting from the first dose of STZ for 28 days. Memory-related behaviors were evaluated using the Morris water maze test. Hyperphosphorylation of tau proteins in hippocampus were measured by western blot assay. Superoxide dismutase activities, malondialdehyde, glutathione peroxidase and 4-hydroxy-2-nonenal adducts contents were also measured in the hippocampus.
+RESULTS:
+Treatment with TEN significantly improved STZ-induced cognitive damage, markedly reduced changes in malondialdehyde and 4-hydroxy-2-nonenal adducts, and significantly inhibited STZ-induced reduction in superoxide dismutase and glutathione peroxidase activities in the hippocampus. In addition, TEN decreased hyperphosphorylation of tau resulting from intracerebroventricular STZ (ICV-STZ) injection, and Nissl staining results showed that TEN has protective effects on hippocampal neurons.
+CONCLUSION:
+These results provide experimental evidence demonstrating preventive effect of TEN on cognitive dysfunction, oxidative stress, and hyperphosphorylation of tau in ICV-STZ rats. This study indicates that TEN may have beneficial effects in the treatment of neurodegenerative disorders such as AD.

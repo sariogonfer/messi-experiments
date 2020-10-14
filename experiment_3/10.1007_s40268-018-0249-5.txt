@@ -1,0 +1,8 @@
+Introduction
+Mechanical heart valves (MHV) are extremely durable, but they require permanent use of anticoagulation to prevent thromboembolic events. The only approved therapeutic options are vitamin K antagonists (VKAs), such as warfarin. As a drug class, clinical management is difficult, therefore new alternatives need to be evaluated.
+Methods
+RIWA is a phase II/III, prospective, open-label, randomized, pilot study designed to investigate oral rivaroxaban 15 mg twice daily compared with dose-adjusted warfarin for the prevention of stroke (ischemic or hemorrhagic) and systemic embolism in patients with MHV, from August 2018 to December 2019. Patients will undergo transesophageal echocardiography at the beginning and the end of the study (follow-up time 90 days). On an explanatory basis, all events will be analyzed, including stroke, peripheral systemic embolism, valve thrombosis, significant bleeding and death.
+Discussion
+Warfarin and similar VKAs are standard therapy for patients with an MHV. Even with the appropriate use of therapy, the incidence of thromboembolic events is high at 1–4% per year. Furthermore, bleeding risk is significant, ranging from 2 to 9% per year. The new frontier to be overcome in relation to use of the new oral anticoagulants is undoubtedly in patients with MHV. A significant portion of people with MHV worldwide will benefit if noninferiority of these new agents is confirmed.
+Trial Registration
+ClinicalTrials.gov identifier: NCT03566303. Recruitment Status: Recruiting. First Posted: 25 June 2018. Last Update Posted: 25 June 2018.

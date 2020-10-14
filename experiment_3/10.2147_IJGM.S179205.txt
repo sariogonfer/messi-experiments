@@ -1,0 +1,10 @@
+Objectives
+Type 2 diabetes mellitus (DM-II) is highly prevalent in Saudi Arabia and only few studies have assessed it as a risk factor for hypothyroidism. This study aimed to examine the association between DM-II and hypothyroidism.
+Subjects and methods
+We conducted a hospital-based case–control study. As cases, we included all adults admitted to King Abdulaziz University Hospital (KAUH) with laboratory-confirmed hypothyroidism. As controls, we drew a random sample of patients admitted to the orthopedic clinic at KAUH with laboratory-confirmed absence of hypothyroidism. We extracted data from the medical records regarding age, sex, presence of DM-II, HbA1c, comorbidities, treatment, and complications. We used multivariate logistic regression to identify factors associated with hypothyroidism.
+Results
+We included 121 cases and 121 controls. In comparison to controls, cases were older (P=0.005), had higher prevalence of DM-II (P<0.001), had higher levels of HbA1c (P=0.03), used insulin (P<0.001) and oral hypoglycemic drugs (P<0.001) more often, and suffered more often from hypertension (P<0.001), coronary artery disease (CAD) (P<0.001), stroke (P=0.04), diabetic foot (P<0.001), and nephropathy (P<0.001). According to multivariate regression, the risk of hypothyroidism was significantly increased among patients with DM-II (OR=4.14; 95% CI=20.20–7.80; P<0.001) and CAD (OR=14.15; 95% CI=1.80–111.43; P=0.01).
+Conclusion
+Patients with DM-II were at increased risk of developing hypothyroidism. Adequate management and control of DM-II might reduce the risk of developing hypothyroidism. Further research using a prospective cohort study design is needed to confirm these findings.
+Key messages
+Patients with DM-II had an increased risk of developing hypothyroidism.

@@ -1,0 +1,10 @@
+Background
+Globally, 36% of deaths among children can be attributed to environmental factors. However, no comprehensive list of environmental exposures exists. We seek to address this gap by developing a literature-mining algorithm to catalog prenatal environmental exposures.
+Methods
+We designed a framework called
+PEPPER
+Prenatal Exposure PubMed ParsER to a) catalog prenatal exposures studied in the literature and b) identify study type. Using PubMed Central, PEPPER classifies article type (methodology, systematic review) and catalogs prenatal exposures. We coupled PEPPER with the FDA’s food additive database to form a master set of exposures.
+Results
+We found that of 31 764 prenatal exposure studies only 53.0% were methodology studies. PEPPER consists of 219 prenatal exposures, including a common set of 43 exposures. PEPPER captured prenatal exposures from 56.4% of methodology studies (9492/16 832 studies). Two raters independently reviewed 50 randomly selected articles and annotated presence of exposures and study methodology type. Error rates for PEPPER’s exposure assignment ranged from 0.56% to 1.30% depending on the rater. Evaluation of the study type assignment showed agreement ranging from 96% to 100% (kappa = 0.909, p <.001). Using a gold-standard set of relevant prenatal exposure studies, PEPPER achieved a recall of 94.4%.
+Conclusions
+Using curated exposures and food additives; PEPPER provides the first comprehensive list of 219 prenatal exposures studied in methodology papers. On average, 1.45 exposures were investigated per study. PEPPER successfully distinguished article type for all prenatal studies allowing literature gaps to be easily identified.

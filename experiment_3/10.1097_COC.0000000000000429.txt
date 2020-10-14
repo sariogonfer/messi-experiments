@@ -1,0 +1,8 @@
+Objectives:
+Treatment options for patients with unresectable or metastatic salivary gland carcinoma (SGC) are limited. Safety and efficacy of pembrolizumab for SGC expressing programmed death ligand 1 (PD-L1) were explored.
+Materials and Methods:
+A cohort of patients with advanced, PD-L1-positive SGC was enrolled in the nonrandomized, multicohort, phase Ib trial of pembrolizumab in patients with PD-L1-positive advanced solid tumors (KEYNOTE-028; NCT02054806). Key inclusion criteria included recurrent or metastatic disease, failure of prior systemic therapy, and PD-L1 expression on ≥1% of tumor or stroma cells (per a prototype immunohistochemistry assay). Patients received pembrolizumab 10 mg/kg every 2 weeks for ≥2 years or until confirmed disease progression or unacceptable toxicity. Primary end point was objective response rate per Response Evaluation Criteria in Solid Tumors version 1.1 by investigator review.
+Results:
+Twenty-six patients with PD-L1-positive SGC were enrolled and treated; median age was 57 years, 88% were men, and 74% had received prior therapy for recurrent/metastatic disease. Confirmed objective response rate after median follow-up of 20 months was 12% (95% confidence interval, 2%-30%), with 3 patients achieving partial response; there were no complete responses. Median duration of response was 4 months (range, 4 to 21 mo). Treatment-related adverse events occurred in 22 patients (85%), resulting in discontinuation in 2 patients and death in 1 (interstitial lung disease); those occurring in ≥15% of patients were diarrhea, decreased appetite, pruritus, and fatigue.
+Conclusions:
+Pembrolizumab demonstrated promising antitumor activity and a manageable safety profile in patients with advanced, PD-L1-positive SGC.

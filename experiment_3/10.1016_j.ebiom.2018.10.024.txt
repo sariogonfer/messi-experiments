@@ -1,0 +1,10 @@
+Background
+Glioblastoma multiforme (GBM) is a fatal disease without effective therapy. Identification of new biomarkers for prognosis would enable more rational selections of strategies to cure patients with GBM and prevent disease relapse.
+Methods
+Seven datasets derived from GBM patients using microarray or next generation sequencing in R2 online database were extracted and then analyzed using JMP software. The survival distribution was calculated according to the Kaplan-Meier method and the significance was determined using log-rank statistics. The sensitivity of a panel of GBM cell lines in response to temozolomide (TMZ), salinomycin, celastrol, and triptolide treatments was evaluated using MTS and tumor-sphere formation assay.
+Findings
+We identified that CD44, ATP binding cassette subfamily C member 3 (ABCC3), and tumor necrosis factor receptor subfamily member 1A (TNFRSF1A) as highly expressed genes in GBMs are associated with patients' poor outcomes and therapy resistance. Furthermore, these three markers combined with MGMT, a conventional GBM marker, can classify GBM patients into five new subtypes with different overall survival time in response to treatment. The four-gene signature and the therapy response of GBMs to a panel of therapeutic compounds were confirmed in a panel of GBM cell lines.
+Interpretation
+The data indicate that the four-gene panel can be used as a therapy response index for GBM patients and potential therapeutic targets. These results provide important new insights into the early diagnosis and the prognosis for GBM patients and introduce potential targets for GBM therapeutics.
+Fund
+Baylor Scott & White Health Startup Fund (E.W.); Collaborative Faculty Research Investment Program (CFRIP) of Baylor University, Baylor Scott & White Health, and Baylor College of Medicine (E.W., T.S., J.H.H.); NIH R01 NS067435 (J.H.H.); Scott & White Plummer Foundation Grant (J.H.H.); National Natural Science Foundation of China 816280007 (J.H.H. and Fu.W.).

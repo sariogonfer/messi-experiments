@@ -1,0 +1,8 @@
+Background:
+This study aimed to use social network analysis (SNA) indicators and clique analysis to investigate collaboration between different departments and research centers in Journal of Research in Medical Sciences (JRMS) in 2012–2016.
+Materials and Methods:
+The study was a scientometric study using micro- and macro-indicators of SNA to investigate the performance of departments and research centers in JRMS. The population consisted of 1073 articles published in JRMS in 2012–2016. Ravar Matrix, UCINET, and VOSviewer software were used for data analysis.
+Results:
+According to the productivity and triple centrality indicators, “Department of Epidemiology and Biostatistics,” “Department of Pathology,” and Department of “Internal Medicine” allocated the first three ranks. Analyzing the cliques of co-authorship network for departments and research centers showed that this network consists of 19 cliques with at least 7 members in each clique. Furthermore, only 30 nodes (8.90% of all nodes in the network) had the presence in minimum clique size of at least 7.
+Conclusion:
+Given the importance and position of scientific collaboration in medical research and its effect on other performance indicators such as efficiency, effectiveness, and number of citations, it is necessary for policy-makers to propose new strategies for improving scientific collaboration.

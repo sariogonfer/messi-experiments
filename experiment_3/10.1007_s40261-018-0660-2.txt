@@ -1,0 +1,12 @@
+Background and Objective
+Schizophrenia and Alzheimer’s disease are characterised by abnormalities in glutamatergic pathways related to N-methyl-d-aspartate receptor hypofunction. Glycine is an N-methyl-d-aspartate receptor co-agonist; inhibition of glycine transporter 1 may improve N-methyl-d-aspartate receptor function. This phase I, randomised, two-part study evaluated the safety, tolerability and pharmacokinetic profile of BI 425809, a novel glycine transporter 1 inhibitor, in healthy male and female volunteers.
+Methods
+Part 1 evaluated BI 425809 10, 25, 50 or 75 mg once daily or 75 mg twice daily in young subjects, and 25 mg or 50 mg once daily in elderly subjects. Each dose group comprised 12 subjects who received BI 425809 (n = 9) or placebo (n = 3) for 14 days (day 1: single dose; days 4–14: multiple dosing). Part 2 compared pharmacokinetic profiles in 12 subjects who received a single dose of BI 425809 25 mg in the morning and evening.
+Results
+Pharmacokinetic profiles were similarly shaped for all dose groups. Median time to maximum plasma concentration was 3.0–4.5 h with steady state being reached between days 6 and 10. Pharmacokinetic parameters demonstrated dose linearity at the predicted therapeutic exposure range of BI 425809 ≤ 25 mg once daily, but increased less than dose proportionally for ≥ 50 mg once daily. All reported adverse events were of mild-to-moderate intensity, 51/84 (61%; part 1) subjects had one or more treatment-related adverse event, no serious adverse events occurred and no dose dependency was observed.
+Conclusions
+Pharmacokinetic properties support both morning and evening dosing. BI 425809 was generally well tolerated at all tested doses.
+Clinicaltrials.gov identifier
+NCT02337283.
+Electronic supplementary material
+The online version of this article (10.1007/s40261-018-0660-2) contains supplementary material, which is available to authorized users.

@@ -1,0 +1,1 @@
+SxIP-iLID is a novel optogenetic tool designed to assess the temporal role of proteins on microtubule dynamics. The authors establish that optogenetic cross-linking of microtubule and actin networks decreases MT growth velocities and increases the cell area void of microtubules.

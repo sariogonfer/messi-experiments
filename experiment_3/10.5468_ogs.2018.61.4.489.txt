@@ -1,0 +1,8 @@
+Objective
+To describe the clinical outcomes of frozen-thawed embryo transfer (FET) with artificial preparation of the endometrium, using a combination of estrogen (E2) and progesterone (P4) with or without a gonadotropin-releasing hormone agonist (GnRHa), and the modified natural cycle (MNC) with human chorionic gonadotropin (hCG) trigger.
+Methods
+In this retrospective study, we evaluated 187 patients during 3 years (February 2012–April 2015). The patients were allocated to the following treatment groups: group A, comprising 113 patients (181 cycles) who received GnRHa+E2+P4; group B, comprising 49 patients (88 cycles) who received E2+P4; and group C, comprising 25 patients (42 cycles) who received hCG+P4. The inclusion criteria were regular menstrual cycles (length 24–35 days) and age 21–45 years.
+Results
+The primary outcome of the study — implantation rate (IR) per embryo transferred — was not statistically different among the 3 groups. Similar results were found for the IRs with fetal heartbeat per embryo transferred (68/181 [37.6%] in group A vs. 22/88 [25.0%] in group B vs. 14/42 [33.3%] in group C) and for the live birth rates (LBRs) per embryo transferred (56/181 [30.9%] in group A vs. 18/88 [20.5%] in group B vs. 11/42 [26.2%] in group C).
+Conclusion
+Although the pregnancy outcomes were better in the hormone therapy with GnRHa group, hormone therapy FET with GnRHa for pituitary suppression did not result in significantly improved IRs and LBRs when compared with hormone therapy FET without GnRHa or MNC FET.

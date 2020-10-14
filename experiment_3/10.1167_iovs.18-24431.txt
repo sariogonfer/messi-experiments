@@ -1,0 +1,8 @@
+Purpose
+To determine the effectiveness of etanercept, a tumor necrosis factor (TNF) inhibitor, in conferring neuroprotection to retinal ganglion cells (RGCs) and improving visual outcomes after optic nerve trauma with either optic nerve crush (ONC) or sonication-induced traumatic optic neuropathy (SI-TON) in mice.
+Methods
+Mouse optic nerves were unilaterally subjected to ONC (n = 20) or SI-TON (n = 20). TNF expression was evaluated by using immunohistochemistry and quantitative RT-PCR (qRT-PCR) in optic nerves harvested 6 and 24 hours post ONC (n = 10) and SI-TON (n = 10). Mice in each injury group received daily subcutaneous injections of either etanercept (10 mg/kg of body weight; five mice) or vehicle (five mice) for 7 days. Pattern electroretinograms were performed on all mice at 1 and 2 weeks after injury. ONC mice were killed at 2 weeks after injury, while SI-TON mice were euthanized at 4 weeks after injury. Whole retina flat-mounts were used for RGC quantification.
+Results
+Immunohistochemistry and qRT-PCR showed upregulation of TNF protein and gene expression within 24 hours after injury. In both models, etanercept use immediately following optic nerve injury led to higher RGC survival when compared to controls, which was comparable between the two models (24.23% in ONC versus 20.42% in SI-TON). In both models, 1 and 2 weeks post injury, mice treated with etanercept had significantly higher a-wave amplitudes than untreated injured controls.
+Conclusions
+Treatment with etanercept significantly reduced retinal damage and improved visual function in both animal models of TON. These findings suggest that reducing TNF activity in injured optic nerves constitutes an effective therapeutic approach in an acute setting.

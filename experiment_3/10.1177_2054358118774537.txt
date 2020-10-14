@@ -1,0 +1,16 @@
+Background:
+Polycystic kidney disease (PKD) leads to progressive chronic kidney disease (CKD) with a subsequent risk of adverse events such as cardiac disease, infections, end-stage kidney disease (ESKD), and mortality.
+Objectives:
+To determine the risks of CKD-related adverse outcomes in patients with PKD compared with patients without PKD.
+Setting:
+Canadian study of prediction of death, dialysis and interim cardiovascular events (CanPREDDICT) was a prospective pan-Canadian cohort study from 2008-2013 involving 28 facilities with adjudicated outcomes.
+Patients:
+Adult CKD patients (estimated glomerular filtration rate [eGFR] = 15-45 mL/min/1.73 m) under the care of a nephrologist.
+Measurements:
+Polycystic kidney disease as identified by the treating physician.
+Methods:
+Patients with PKD (PKD) and non-PKD were propensity score (PS) matched (1:4) using demographics, comorbidities, and laboratory values. We used conditional Cox proportional hazards models to examine the risk of cardiac disease (defined as coronary artery disease or congestive heart failure), infection, ESKD, or all-cause mortality in patients with PKD compared with no PKD.
+Results:
+Among a total of 2370 patients, 105 with PKD were matched with 416 without PKD with a baseline mean age and eGFR of 62.6 years and 27.8 mL/min, respectively. During 1680 person-years of follow time (median follow-up: 3.8 years), there were a total of 43 cardiac, 83 ESKD, 117 infectious, and 39 all-cause mortality events. PKD was associated with a higher risk of cardiac events (9.5% vs 7.9%, hazard ratio [HR] = 1.46, 95% confidence interval [CI] = 1.04-2.04) and ESKD (25.7% vs 13.5%, HR = 2.00, 95% CI = 1.33-3.01), and with similar risks for infection (21.9% vs 22.6%, HR = 1.16, 95% CI = 0.75-1.82) or all-cause mortality (6.7% vs 7.7%, HR = 0.87, 95% CI = 0.40-1.91) compared with non-PKD. There were no differences in the types of infections (urinary, respiratory, hematologic, or other) between the 2 groups (P =.585).
+Conclusions:
+Patients with PKD with advanced CKD are at a potentially higher risk of ESKD and cardiac events compared with patients without PKD. These findings, if confirmed in larger cohorts, suggest that monitoring and treatment for adverse outcomes in patients with PKD, especially related to cardiac disease, may be beneficial.

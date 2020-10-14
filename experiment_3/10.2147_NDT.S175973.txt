@@ -1,0 +1,8 @@
+Purpose
+The rating discrepancy for patients with major depressive disorder (MDD) is believed to be associated with hopelessness, risk of suicidal behavior, and personality characteristics, such as high neuroticism. However, it remains to be elucidated whether the discrepancy is also mediated by coping styles, which are conceptualized as personality characteristics.
+Patients and methods
+We enrolled 154 participants and divided them into three groups: patients with MDD with a rating discrepancy (MDD-WD; n=46), patients with MDD without a rating discrepancy (MDD-WoD; n=50), and healthy controls (HCs; n=58). A rating discrepancy was defined as a high Beck Depression Inventory score and low Hamilton Depression Rating Scale score. Coping styles and hopelessness were compared among the groups.
+Results
+The MDD-WD group exhibited a higher level of hopelessness than those in the MDD-WoD and HC groups. They also demonstrated a significantly increased number of suicide attempts compared with the MDD-WoD group. Both the MDD-WD and MDD-WoD groups exhibited lesser task-oriented and greater emotion-oriented coping styles than those in the HC group, with the MDD-WD group demonstrating even greater emotion-oribented coping than that in the MDD-WoD group. Overall, high levels of hopelessness, a history of suicide attempts, and frequent use of emotion-oriented coping mechanisms were associated with rating discrepancy.
+Conclusion
+Patients with MDD who showed rating discrepancy tended to use emotion-oriented coping. Planning for minimal use of emotion-oriented coping may be a psychotherapeutic intervention for such patients. Reduced emotion-oriented coping may also reduce the feeling of hopelessness and risk of developing suicidal behavior.
